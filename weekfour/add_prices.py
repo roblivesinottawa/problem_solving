@@ -6,7 +6,7 @@ def add_prices(basket):
     return round(total, 2)  # round it to 2 decimal places
 
 
-# create a groceies list using a dictionary
+# create a groceries list using a dictionary
 groceries = {
     "bananas": 2.00,
     "apples": 2.50,
